@@ -1,0 +1,4 @@
+x = 6
+int y
+int x = y + 3
+int x = "karim"
